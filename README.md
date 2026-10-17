@@ -100,12 +100,6 @@ I'm an **AI & ML Engineer**, **co-founder of QuantumAI**, and a Computer Science
 
 ---
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Yazan-Alkhadraa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yazan-Alkhadraa&layout=compact&theme=tokyonight)
-
----
-
 ## 🤝 Let's Connect
 - 💼 LinkedIn: [Yazan Al-Khadraa](https://www.linkedin.com/in/yazan-al-khadraa-00b152335/)
 - 📧 Email: yazn102010@gmail.com
